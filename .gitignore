@@ -1,0 +1,18 @@
+# Python Caches & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Streamlit runtime state (keep the deploy configuration tracked)
+.streamlit/*
+!.streamlit/config.toml
+
+# OS / IDE generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
